@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">شاشات الجمعية</string>
+
+    <string name="pairing_title">اقتران الجهاز</string>
+    <string name="pairing_instructions">افتح لوحة إدارة شاشات العرض، ثم أدخل هذا الرمز لاعتماد الجهاز:</string>
+    <string name="pairing_waiting">بانتظار اعتماد مسؤول النظام…</string>
+    <string name="pairing_rejected">رُفض طلب الاقتران. أعد تشغيل التطبيق للمحاولة من جديد.</string>
+    <string name="pairing_expired">انتهت صلاحية رمز الاقتران. يولَّد رمز جديد تلقائيًا…</string>
+    <string name="pairing_failed">تعذّر إتمام الاقتران: %1$s</string>
+    <string name="pairing_requesting">جارٍ توليد رمز الاقتران…</string>
+
+    <string name="playback_no_content">لا يوجد محتوى منشور لهذا الجهاز بعد.</string>
+
+    <string name="signage_service_channel">مزامنة شاشة العرض</string>
+    <string name="signage_service_title">شاشة العرض متصلة وتعمل</string>
+</resources>
